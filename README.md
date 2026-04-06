@@ -1,2 +1,2 @@
 # swiftpay-africa-revenue-analysis
-Revenue analysis of a digital payments platform to uncover transaction trends, user behavior, and growth drivers across African markets.
+Revenue and growth analysis for a B2B payment infrastructure company. Built with SQL Server 2019.
