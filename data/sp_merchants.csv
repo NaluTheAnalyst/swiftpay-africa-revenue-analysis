@@ -1,0 +1,31 @@
+merchant_id,business_name,industry,city,country,plan_id,onboarded_date,is_active
+1,Dangote Consumer Goods Ltd,Manufacturing,Lagos,Nigeria,4,2023-01-05,1
+2,Zenith Logistics Nigeria,Logistics,Abuja,Nigeria,4,2023-01-12,1
+3,HealthPlus Pharmacy Chain,Healthcare,Lagos,Nigeria,3,2023-01-20,1
+4,Novare Retail Centres,Retail,Abuja,Nigeria,3,2023-02-01,1
+5,Chicken Republic Foods,Food & Beverage,Lagos,Nigeria,3,2023-02-14,1
+6,CoolBoys Media Group,Media,Lagos,Nigeria,3,2023-03-01,1
+7,UACN Property Development,Real Estate,Lagos,Nigeria,3,2023-03-15,1
+8,Pan-African Schools Network,Education,Port Harcourt,Nigeria,3,2023-04-01,1
+9,QuickMart Superstore,Retail,Kano,Nigeria,2,2023-02-10,1
+10,MedExpress Clinics,Healthcare,Enugu,Nigeria,2,2023-02-20,1
+11,Prestige Academy Group,Education,Ibadan,Nigeria,2,2023-03-05,1
+12,GoSwift Courier Services,Logistics,Lagos,Nigeria,2,2023-03-18,1
+13,Urban Kitchen Franchise,Food & Beverage,Abuja,Nigeria,2,2023-04-10,1
+14,NorthStar Real Estate,Real Estate,Kaduna,Nigeria,2,2023-04-22,1
+15,Prime Electronics Retail,Retail,Lagos,Nigeria,2,2023-05-01,1
+16,Sunrise Bakery Chains,Food & Beverage,Port Harcourt,Nigeria,2,2023-05-15,1
+17,EduFirst Learning Centres,Education,Lagos,Nigeria,2,2023-06-01,1
+18,Apex Freight Solutions,Logistics,Kano,Nigeria,2,2023-06-20,1
+19,Brilliant Minds Tutors,Education,Ibadan,Nigeria,2,2023-02-01,0
+20,FreshFarm Produce Ltd,Food & Beverage,Enugu,Nigeria,2,2023-03-10,0
+21,SkyHigh Properties,Real Estate,Abuja,Nigeria,2,2023-01-25,0
+22,TechFlow ICT Solutions,Media,Lagos,Nigeria,1,2023-04-05,0
+23,Mama Titi Kitchen,Food & Beverage,Lagos,Nigeria,1,2023-03-01,1
+24,Lagos Island Pharmacy,Healthcare,Lagos,Nigeria,1,2023-04-15,1
+25,Kano Central Stores,Retail,Kano,Nigeria,1,2023-05-10,1
+26,Port City Logistics,Logistics,Port Harcourt,Nigeria,1,2023-06-01,1
+27,Ibadan Book House,Education,Ibadan,Nigeria,1,2023-07-01,1
+28,Abuja Hair & Beauty,Retail,Abuja,Nigeria,1,2023-07-20,1
+29,Kaduna Grain Mills,Manufacturing,Kaduna,Nigeria,1,2023-05-01,0
+30,Delta Marine Freight,Logistics,Port Harcourt,Nigeria,1,2023-06-15,0

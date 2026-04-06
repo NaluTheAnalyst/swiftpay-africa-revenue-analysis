@@ -1,0 +1,5 @@
+plan_id,plan_name,monthly_fee,transaction_fee_pct,max_txn_per_month
+1,Starter,15000,1.8,200
+2,Growth,45000,1.4,1000
+3,Business,120000,1,5000
+4,Enterprise,350000,0.7,99999
